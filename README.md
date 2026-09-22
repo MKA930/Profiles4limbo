@@ -265,3 +265,7 @@ https://t.me/limboprossr
 [5]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/%E2%99%BB%EF%B8%8F%20%E6%95%85%E9%9A%9C%E5%88%87%E6%8D%A2.png
 [11]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/QuantumultX_icon_backgroundcolor.png
 [119]: https://limbopro.com/usr/uploads/2021/02/753438643.png
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
